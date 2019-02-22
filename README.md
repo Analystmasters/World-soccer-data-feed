@@ -23,6 +23,8 @@ This is a unique live data stream on Github providing a simple yet rich source o
 
 The CSV file is updated every 30 minutes at minutes 20’ and 50’ of every hour. I kindly request not to download it more than twice per hour as it incurs additional cost.
 
+Simply run the **"fetch_live_data.ipynb"** to get the csv on your device in python or do as below,
+
 You may download the csv data file from the following link from Amazon S3 server by changing the FOLDER_NAME as below,
 
 https://s3.amazonaws.com/FOLDER_NAME/amasters.csv
